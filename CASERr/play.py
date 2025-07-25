@@ -30,7 +30,8 @@ from pyrogram.errors import (
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.enums import ChatType, ChatMemberStatus
 # هذا السطر تم حذفه: #from pytgcalls import PyTgCalls, StreamType
-from pytgcalls.types.stream import StreamType # هذا السطر هو الصحيح والذي يجب أن يبقى
+#from pytgcalls.types.stream import StreamType # هذا السطر هو الصحيح والذي يجب أن يبقى
+from pytgcalls.types import StreamType  
 from pytgcalls.exceptions import (
     NoActiveGroupCall,
     TelegramServerError,
