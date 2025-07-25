@@ -31,3 +31,4 @@ wget
 yt-dlp
 pytz
 youtube-search-python
+youtube-search
