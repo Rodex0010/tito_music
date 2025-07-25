@@ -32,4 +32,5 @@ yt-dlp
 pytz
 youtube-search-python
 youtube-search
-pytgcalls @ git+https://github.com/pytgcalls/pytgcalls.git
+# تم التعديل هنا: استخدام إصدار مستقر من pytgcalls متوافق مع Python 3.10
+pytgcalls==2.2.0
