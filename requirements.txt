@@ -6,7 +6,7 @@ dnspython
 ffmpeg-python
 gitpython
 gtts
-hachoir  # حذف رقم الإصدار (هياخد أحدث إصدار متاح تلقائياً)
+hachoir  # بدون رقم إصدار لتفادي المشاكل
 heroku3
 lyricsgenius
 motor
@@ -20,7 +20,7 @@ pymongo[srv]
 pyromod~=1.5
 python-dotenv
 pySmartDL
-PyYAML==5.3.1
+PyYAML~=5.3  # استخدم ~ لتجنب إصدار 5.4 فما فوق لو في تضارب
 requests
 speedtest-cli
 spotipy
