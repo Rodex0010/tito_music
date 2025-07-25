@@ -21,7 +21,6 @@ pyromod~=1.5
 python-dotenv
 pySmartDL
 PyYAML==5.3.1
-python-3.10.12
 requests
 speedtest-cli
 spotipy
