@@ -30,3 +30,4 @@ unidecode
 wget
 yt-dlp
 pytz
+youtube-search-python
