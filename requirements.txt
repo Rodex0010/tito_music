@@ -32,4 +32,4 @@ yt-dlp
 pytz
 youtube-search-python
 youtube-search
-git+https://github.com/pytgcalls/pytgcalls.git@master
+pytgcalls @ git+https://github.com/pytgcalls/pytgcalls.git@2.1.0
