@@ -33,3 +33,4 @@ pytz
 youtube-search-python
 youtube-search
 pytgcalls @ git+https://github.com/pytgcalls/pytgcalls.git@v2.1.0
+
