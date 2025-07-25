@@ -5,9 +5,7 @@ dnspython
 ffmpeg-python
 gitpython
 gtts
-hachoir-core
-hachoir-parser
-hachoir-metadata
+hachoir3
 heroku3
 lyricsgenius
 motor
