@@ -1,11 +1,12 @@
 aiofiles
 aiohttp
+asyncio
 beautifulsoup4
 dnspython
 ffmpeg-python
 gitpython
 gtts
-hachoir3
+hachoir
 heroku3
 lyricsgenius
 motor
