@@ -22,7 +22,7 @@ RUN pip install --upgrade pip \
  && pip install --no-cache-dir -r requirements.txt
 
 # 👇 تحميل pytgcalls يدويًا من GitHub (عشان tgcalls dependency)
-RUN pip install git+https://github.com/pytgcalls/pytgcalls
+#RUN pip install git+https://github.com/pytgcalls/pytgcalls
 
 # نسخ بقية ملفات المشروع
 COPY . .
