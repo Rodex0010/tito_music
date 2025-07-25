@@ -8,7 +8,7 @@ import random
 import asyncio
 import yt_dlp
 from datetime import datetime, timedelta
-from Youtube import YoutubeSearch
+from youtube_search import YoutubeSearch
 import pytgcalls
 # تم حذف استيراد الجودة من pytgcalls لأن النسخة 2.2.5 لا تدعمها
 #from pytgcalls.types.input_stream.quality import (
